@@ -8,11 +8,11 @@ use electron-forge to build a webpack template and add vue-loader and @vue/compi
 yarn create electron-app electron-webpack-vue3 --template=webpack
 ```
 ### init vue for webpack
-add vue-loader to webpack
-add .vue file
-change renderer for vue 
-change index.html for vue
+- add vue-loader to webpack
+- add .vue file
+- change renderer for vue 
+- change index.html for vue
 ...
 ### some other works
-.yarnrc for chinese
-add electron to dependencies(for package)
+- .yarnrc for chinese
+- add electron to dependencies(for package)
