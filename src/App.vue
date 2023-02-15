@@ -31,4 +31,8 @@ const helloworld = "hellow,wowowowo";
   </div>
 </template>
 
-<style lang="scss" scoped></style>"
+<style lang="scss" scoped>
+.App {
+  background-color: red;
+}
+</style>
